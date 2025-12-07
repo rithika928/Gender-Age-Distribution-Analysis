@@ -1,0 +1,53 @@
+sex;age_group;type_of_death;2020;2019;2018;2017;2016;2015;2014;2013
+Males;All ages;Identified deaths;430;497;478;414;414;379;348;360
+Males;15-19;Identified deaths;2;1;6;2;6;2;5;3
+Males;20-24;Identified deaths;11;11;16;10;15;16;14;11
+Males;25-29;Identified deaths;28;26;23;29;29;28;22;22
+Males;30-34;Identified deaths;37;42;53;42;35;40;38;45
+Males;35-39;Identified deaths;55;69;68;64;50;54;41;50
+Males;40-44;Identified deaths;56;72;68;59;77;60;67;67
+Males;45-49;Identified deaths;77;85;87;75;51;51;49;56
+Males;50-54;Identified deaths;74;81;68;49;65;47;44;47
+Males;55-59;Identified deaths;47;50;40;39;40;31;31;23
+Males;60-64;Identified deaths;22;35;23;20;18;32;13;17
+Males;65-69;Identified deaths;16;16;12;15;19;13;16;9
+Males;70-74;Identified deaths;5;9;14;10;9;5;8;10
+Females;All ages;Identified deaths;60;66;63;77;58;46;53;32
+Females;15-19;Identified deaths;1;0;0;1;1;0;0;1
+Females;20-24;Identified deaths;0;4;4;0;3;2;4;0
+Females;25-29;Identified deaths;5;4;4;8;2;6;5;5
+Females;30-34;Identified deaths;10;8;8;7;12;8;9;2
+Females;35-39;Identified deaths;7;8;12;19;9;7;8;4
+Females;40-44;Identified deaths;16;15;10;15;7;7;11;5
+Females;45-49;Identified deaths;9;7;10;9;9;7;5;7
+Females;50-54;Identified deaths;9;10;4;7;11;3;5;1
+Females;55-59;Identified deaths;2;4;6;3;1;2;2;3
+Females;60-64;Identified deaths;1;4;3;3;1;3;2;2
+Females;65-69;Identified deaths;0;1;0;3;1;0;0;1
+Females;70-74;Identified deaths;0;1;2;2;1;1;2;1
+Males;All ages;Estimated deaths;604;687;641;503;496;453;412;443
+Males;15-19;Estimated deaths;3;1;8;2;7;2;6;4
+Males;20-24;Estimated deaths;15;15;21;12;18;19;17;14
+Males;25-29;Estimated deaths;39;36;31;35;35;33;26;27
+Males;30-34;Estimated deaths;52;58;71;51;42;48;45;55
+Males;35-39;Estimated deaths;77;95;91;78;60;65;49;61
+Males;40-44;Estimated deaths;79;99;91;72;92;72;79;82
+Males;45-49;Estimated deaths;108;117;117;91;61;61;58;69
+Males;50-54;Estimated deaths;104;112;91;60;78;56;52;58
+Males;55-59;Estimated deaths;66;69;54;47;48;37;37;28
+Males;60-64;Estimated deaths;31;48;31;24;22;38;15;21
+Males;65-69;Estimated deaths;22;22;16;18;23;16;19;11
+Males;70-74;Estimated deaths;7;12;19;12;11;6;9;12
+Females;All ages;Estimated deaths;84;91;85;94;69;55;63;39
+Females;15-19;Estimated deaths;1;0;0;1;1;0;0;1
+Females;20-24;Estimated deaths;0;6;5;0;4;2;5;0
+Females;25-29;Estimated deaths;7;6;5;10;2;7;6;6
+Females;30-34;Estimated deaths;14;11;11;9;14;10;11;2
+Females;35-39;Estimated deaths;10;11;16;23;11;8;9;5
+Females;40-44;Estimated deaths;22;21;13;18;8;8;13;6
+Females;45-49;Estimated deaths;13;10;13;11;11;8;6;9
+Females;50-54;Estimated deaths;13;14;5;9;13;4;6;1
+Females;55-59;Estimated deaths;3;6;8;4;1;2;2;4
+Females;60-64;Estimated deaths;1;6;4;4;1;4;2;2
+Females;65-69;Estimated deaths;0;1;0;4;1;0;0;1
+Females;70-74;Estimated deaths;0;1;3;2;1;1;2;1
